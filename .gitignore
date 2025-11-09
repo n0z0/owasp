@@ -16,6 +16,9 @@
 
 /logs/*
 !/logs/empty
+*.sqlite
+*.exe
+*.ini
 
 # CakePHP 2
 
